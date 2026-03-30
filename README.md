@@ -208,17 +208,8 @@ H is positive definite → strictly convex QP → unique global minimum guarante
 
 ---
 
-## Project Structure
-
-```
-.
-├── rocket_landing_mpc_lqr.py   # standalone script
-├── rocket_landing.ipynb        # Jupyter notebook (13 cells)
-├── rocket_landing_mpc_lqr.png  # output figure
-└── README.md
 ```
 
-### Notebook cell map
 
 | Cell | Contents |
 |---|---|
